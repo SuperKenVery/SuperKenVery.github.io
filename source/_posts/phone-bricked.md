@@ -1,5 +1,6 @@
 ---
 title: 记一次刷机变砖
+date: 2024-12-28
 ---
 
 我的手机是一加Ace3Pro。最近ColorOS15推出了，我就迫不及待的更新上去了。然后发现lsposed并不兼容Android15，于是换成了lsposed_mod。
